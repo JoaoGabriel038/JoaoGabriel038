@@ -58,8 +58,7 @@ Desenvolvedor Junior focado no ecossistema Java e no desenvolvimento de aplicaç
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoGabriel038&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGabriel038&layout=compact&theme=tokyonight" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoGabriel038)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
