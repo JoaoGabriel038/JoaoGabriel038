@@ -1,73 +1,36 @@
-# Hi 👋, I'm João Gabriel da Silva
+# Olá! 👋 Eu sou João Gabriel da Silva
+<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=2F81F7&center=true&vCenter=true&width=800&lines=Desenvolvedor+Back-End+%7C+Java+%2B+Python;Entusiasta+de+IA+%7C+Prompt+Engineering;Estudante+de+ADS+%7C+USCS;Construindo+o+futuro+com+código!" alt="Typing SVG" />
+</div>
 
-🚀 **Junior Java Developer | Constant Learner** 🇧🇷 São Caetano do Sul, SP
+## 🚀 Sobre Mim
+<br>
 
-Desenvolvedor Junior focado no ecossistema Java e no desenvolvimento de aplicações web. Acredito no aprendizado contínuo e na prática constante para construir soluções eficientes e bem estruturadas. Atualmente, busco aprimorar minhas habilidades técnicas enquanto curso Análise e Desenvolvimento de Sistemas na USCS.
+🎯 **Desenvolvedor BackEnd de 21 anos** de São Paulo, Brasil, apaixonado por construir sistemas robustos e explorar tecnologias de IA. Atualmente no último semestre de **Análise e Desenvolvimento de Sistemas** na **Universidade Municipal de São Caetano do Sul (USCS)**, formando-me em dezembro de 2026.
+💡 **Foco Atual:** Desenvolvimento back-end com **Java** e **Python**, integração de IA e engenharia de prompt. Acredito que a tecnologia tem o poder de transformar realidades e quero fazer parte dessa transformação!
 
----
+## 🛠️ Tecnologias
+<br>
 
-## 🌐 Onde me encontrar
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,spring,mysql,git,github" />
+</div>
 
-<p align="left">
-  <a href="https://github.com/JoaoGabriel038">
-    <img src="https://img.shields.io/badge/GitHub-JoaoGabriel038-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/joao-gabriel-da-silva-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Joao%20Gabriel-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+## 📊 Estatísticas do GitHub
+<br>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaogabriel038&theme=dracula&hide_border=true&background=282A36&stroke=BD93F9&ring=BD93F9&fire=FFB86C&currStreakLabel=F8F8F2" alt="GitHub Streak"/>
+</div>
 
-## 🧠 O que estou desenvolvendo
+## 📈 Gráfico de Atividade
+<br>
 
-- ☕ **Java & Backend:** Fortalecendo a base em lógica de programação e arquitetura Java.
-- 🌐 **Web Dev:** Criação de interfaces responsivas com JavaScript, HTML5 e CSS3.
-- 🔐 **Cybersecurity:** Conhecimentos fundamentais em segurança digital pela Cisco.
-- ☁️ **Cloud Foundations:** Estudos em infraestrutura de nuvem com foco em AWS.
-- 📊 **Database:** Operações e modelagem de dados utilizando MySQL.
-- 🧩 **Agile:** Organização de fluxo de trabalho com Trello e Clickup.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaogabriel038&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFB86C" alt="Activity Graph"/>
+</div>
 
----
-
-## 🛠️ Minha Stack
-
-### Backend & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Learning & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Projetos Acadêmicos
-
-* **Argos Security:** Sistema de monitoramento com interface responsiva.
-* **Arena Score:** Plataforma de reserva de quadras com integração mobile via WebView.
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img alt="mystats" src="https://github-readme-stats.vercel.app/api?username=JoaoGabriel038&show_icons=true"/> 
-<img alt="mystats2" src="https://github.com/JoaoGabriel038/github-readme-stats"/>
-</p>
-
----
-
-## 🚀 Filosofia
-
-> "O código é o reflexo do quanto estamos dispostos a aprender e evoluir todos os dias."
-
----
-
-🤝 Aberto a feedbacks e colaborações para crescer junto com a comunidade!
+<div align="center">
+  <i>🚀 "O código é o reflexo do quanto estamos dispostos a aprender e evoluir todos os dias."</i>
+</div>
